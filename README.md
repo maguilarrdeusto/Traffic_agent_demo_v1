@@ -33,7 +33,7 @@ traffic-agent-project/
 - Proper formatting of responses with line breaks.
 - Robust error handling.
 - Integration with two optimization services on Render:
-    - Standard Optimizer: `https://fastapi-traffic-agent-v2.onrender.com/api/optimize`
+    - Standard Optimizer: `https://fastapi-traffic-agent-v2.onrender.com`
     - Dynamic Optimizer: `https://fastapi2-traffic-agent-v1.onrender.com`
 - Contextual selection between Standard and Dynamic optimization tools based on user input.
 
