@@ -37,10 +37,6 @@ traffic-agent-project/
     - Dynamic Optimizer: `https://fastapi2-traffic-agent-v1.onrender.com`
 - Contextual selection between Standard and Dynamic optimization tools based on user input.
 
-## Access URLs (Previous Deployment - May Need Redeployment for New Features)
-- Frontend: http://5173-iuarg9qxnf6kd0ddoi6lq-adaa25d4.manus.computer
-- Backend API: http://8000-iuarg9qxnf6kd0ddoi6lq-adaa25d4.manus.computer
-
 ## How to Use
 1. Access the frontend via the provided URL (or local setup).
 2. Type your optimization request. The agent will decide which optimizer to use:
